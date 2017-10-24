@@ -1,0 +1,611 @@
+Key: DEOPT  Anagrams: depot depot toped toped  
+Key: AIMS  Anagrams: amis amis sima sima  Key: ENOR  Anagrams: oner oner reno reno  
+Key: APRST  Anagrams: parts parts spart spart sprat sprat strap strap tarps tarps traps traps  
+Key: INOR  Anagrams: iron iron nori nori  
+Key: EPRST  Anagrams: perts perts strep strep  
+Key: DOP  Anagrams: dop dop pod pod  
+Key: DEIL  Anagrams: deil deil lied lied  
+Key: IPRST  Anagrams: spirt spirt trips trips  
+Key: ADGR  Anagrams: darg darg grad grad  Key: HOP  Anagrams: hop hop poh poh  Key: EEIISST  Anagrams: seities seities  
+Key: ADEMN  Anagrams: deman deman named named  
+Key: DEFL  Anagrams: delf delf fled fled  
+Key: OPRST  Anagrams: ports ports strop strop  
+Key: MOP  Anagrams: mop mop pom pom  
+Key: ADERRW  Anagrams: drawer drawer redraw redraw reward reward warder warder  
+Key: AR  Anagrams: ar ar ra ra  Key: ARY  Anagrams: ayr ayr rya rya  
+Key: ER  Anagrams: er er re re  
+Key: AOORRTT  Anagrams: rotator rotator  
+Key: ABR  Anagrams: arb arb bra bra  
+Key: DNO  Anagrams: don don nod nod  
+Key: DEILSV  Anagrams: devils devils slived slived  Key: INRST  Anagrams: snirt snirt trins trins  
+Key: APST  Anagrams: pats pats spat spat stap stap taps taps  
+Key: HNO  Anagrams: hon hon noh noh  Key: BEETT  Anagrams: tebet tebet  
+Key: EPST  Anagrams: pets pets step step  
+Key: NNO  Anagrams: non non  
+Key: IPST  Anagrams: spit spit tips tips  
+Key: AET  Anagrams: ate ate eat eat eta eta tae tae  
+Key: ADG  Anagrams: dag dag gad gad  
+Key: HOOS  Anagrams: ohos ohos oohs oohs shoo shoo soho soho  Key: ENNOST  Anagrams: sonnet sonnet tennos tennos  
+Key: OPST  Anagrams: pots pots spot spot stop stop tops tops  
+Key: LOOS  Anagrams: loos loos sool sool  
+Key: A  Anagrams: a a  
+Key: AA  Anagrams: aa aa  Key: B  Anagrams: b b  
+Key: C  Anagrams: c c  
+Key: D  Anagrams: d d  
+Key: E  Anagrams: e e  Key: AAGSS  Anagrams: sagas sagas  
+Key: F  Anagrams: f f  
+Key: G  Anagrams: g g  
+Key: AB  Anagrams: ab ab ba ba  Key: H  Anagrams: h h  
+Key: AAB  Anagrams: aba aba  Key: I  Anagrams: i i  Key: IZZ  Anagrams: ziz ziz  
+Key: J  Anagrams: j j  
+Key: AEEMN  Anagrams: amene amene enema enema  Key: K  Anagrams: k k  
+Key: L  Anagrams: l l  
+Key: M  Anagrams: m m  
+Key: N  Anagrams: n n  
+Key: ABB  Anagrams: bab bab  Key: ANST  Anagrams: nats nats stan stan  Key: O  Anagrams: o o  Key: OY  Anagrams: oy oy yo yo  Key: OZ  Anagrams: oz oz zo zo  
+Key: AABB  Anagrams: abba abba  Key: P  Anagrams: p p  
+Key: Q  Anagrams: q q  
+Key: R  Anagrams: r r  
+Key: ENST  Anagrams: nets nets sten sten  Key: S  Anagrams: s s  
+Key: T  Anagrams: t t  
+Key: U  Anagrams: u u  
+Key: V  Anagrams: v v  
+Key: INST  Anagrams: snit snit tins tins  Key: W  Anagrams: w w  
+Key: X  Anagrams: x x  
+Key: Y  Anagrams: y y  
+Key: Z  Anagrams: z z  
+Key: BERSU  Anagrams: rebus rebus suber suber  
+Key: DEEINS  Anagrams: denies denies seined seined  
+Key: HOOP  Anagrams: hoop hoop pooh pooh  
+Key: IIMMN  Anagrams: minim minim  
+Key: LOOP  Anagrams: loop loop pool pool  
+Key: NOOP  Anagrams: noop noop poon poon  
+Key: BOR  Anagrams: bor bor bro bro orb orb rob rob  
+Key: COR  Anagrams: cor cor roc roc  
+Key: DOR  Anagrams: dor dor rod rod  
+Key: FOR  Anagrams: fro fro orf orf  
+Key: MOR  Anagrams: mor mor rom rom  
+Key: NOR  Anagrams: nor nor ron ron  
+Key: ALM  Anagrams: lam lam mal mal  
+Key: AABC  Anagrams: abac abac caba caba  Key: AALM  Anagrams: alma alma amla amla  Key: ADEM  Anagrams: edam edam made made  
+Key: ELM  Anagrams: lem lem mel mel  
+Key: DESU  Anagrams: deus deus sued sued  Key: EELPSS  Anagrams: sleeps sleeps speels speels  
+Key: NNOO  Anagrams: noon noon  
+Key: EEMSS  Anagrams: seems seems smees smees  
+Key: AIMR  Anagrams: amir amir rima rima  Key: ADESV  Anagrams: devas devas saved saved  Key: AILS  Anagrams: lias lias sail sail  
+Key: AAGNS  Anagrams: nagas nagas sagan sagan  
+Key: EEILRRV  Anagrams: reliver reliver reviler reviler  
+Key: EIMR  Anagrams: emir emir rime rime  Key: EILS  Anagrams: lies lies seil seil  
+Key: ARST  Anagrams: rats rats star star  
+Key: IRST  Anagrams: rits rits stir stir  
+Key: CEPS  Anagrams: ceps ceps spec spec  
+Key: EEPS  Anagrams: pees pees seep seep  
+Key: ENOST  Anagrams: notes notes seton seton  
+Key: EFIRS  Anagrams: fires fires serif serif  
+Key: KNOST  Anagrams: knots knots stonk stonk  
+Key: DEIMT  Anagrams: demit demit timed timed  
+Key: DIM  Anagrams: dim dim mid mid  Key: LOOSST  Anagrams: sloots sloots stools stools  
+Key: DEEM  Anagrams: deem deem meed meed  
+Key: EORRST  Anagrams: retros retros sorter sorter  
+Key: DOOR  Anagrams: door door rood rood  
+Key: EEPP  Anagrams: peep peep  
+Key: MOOR  Anagrams: moor moor room room  
+Key: AANNRUU  Anagrams: nauruan nauruan  
+Key: AGNW  Anagrams: gnaw gnaw wang wang  
+Key: EEKRS  Anagrams: reeks reeks skeer skeer  
+Key: BDRU  Anagrams: burd burd drub drub  
+Key: EILN  Anagrams: lien lien neil neil  
+Key: ARSSU  Anagrams: sarus sarus suras suras  
+Key: ORTW  Anagrams: trow trow wort wort  
+Key: LLPPUU  Anagrams: pullup pullup  
+Key: EENP  Anagrams: neep neep peen peen  
+Key: DEEINR  Anagrams: denier denier reined reined  
+Key: ADS  Anagrams: das das sad sad  
+Key: ENNOT  Anagrams: nonet nonet tenon tenon  
+Key: NORST  Anagrams: snort snort trons trons  
+Key: OORST  Anagrams: roots roots stoor stoor  
+Key: BIO  Anagrams: ibo ibo obi obi  
+Key: ATW  Anagrams: taw taw wat wat  
+Key: ETW  Anagrams: tew tew wet wet  
+Key: ITW  Anagrams: tiw tiw wit wit  
+Key: OTW  Anagrams: tow tow wot wot  
+Key: ADP  Anagrams: dap dap pad pad  
+Key: AGNR  Anagrams: gnar gnar rang rang  Key: EERRTT  Anagrams: terret terret  
+Key: EEFLRT  Anagrams: reflet reflet telfer telfer  
+Key: AIST  Anagrams: itas itas sati sati  
+Key: APSS  Anagrams: saps saps spas spas  
+Key: EERSSV  Anagrams: serves serves sevres sevres  
+Key: AES  Anagrams: eas eas sae sae  
+Key: DESY  Anagrams: deys deys syed syed  
+Key: ALV  Anagrams: lav lav val val  
+Key: AALV  Anagrams: aval aval lava lava  
+Key: ADOS  Anagrams: ados ados soda soda  
+Key: CEP  Anagrams: cep cep pec pec  
+Key: AAHHWW  Anagrams: hawhaw hawhaw wahwah wahwah  
+Key: AEMNR  Anagrams: namer namer reman reman  Key: ACEPR  Anagrams: pacer pacer recap recap  
+Key: AHL  Anagrams: hal hal lah lah  
+Key: ADOP  Anagrams: apod apod dopa dopa  Key: ANPS  Anagrams: naps naps pans pans snap snap span span  
+Key: ADEIL  Anagrams: ailed ailed delia delia  
+Key: INPS  Anagrams: nips nips pins pins snip snip spin spin  
+Key: AEN  Anagrams: ean ean nae nae  
+Key: BEN  Anagrams: ben ben neb neb  
+Key: DEN  Anagrams: den den ned ned  
+Key: EEN  Anagrams: een een ene ene nee nee  
+Key: ADRY  Anagrams: dray dray yard yard  Key: EGLOS  Anagrams: loges loges segol segol  
+Key: OORRT  Anagrams: rotor rotor  
+Key: ABDR  Anagrams: bard bard drab drab  
+Key: EENSV  Anagrams: neves neves seven seven  
+Key: ELT  Anagrams: let let tel tel  
+Key: ILT  Anagrams: lit lit til til  
+Key: AD  Anagrams: ad ad da da  
+Key: AAD  Anagrams: ada ada  
+Key: AESST  Anagrams: asset asset tessa tessa  
+Key: DEEIL  Anagrams: edile edile elide elide  
+Key: ABD  Anagrams: bad bad dab dab  Key: AIRT  Anagrams: rait rait tiar tiar  
+Key: APRS  Anagrams: raps raps spar spar  
+Key: GIRT  Anagrams: girt girt trig trig  
+Key: ESSY  Anagrams: seys seys syes syes  
+Key: AER  Anagrams: are are ear ear era era rae rae  
+Key: HSS  Anagrams: shs shs  
+Key: ISS  Anagrams: sis sis  
+Key: DERY  Anagrams: drey drey yerd yerd  
+Key: EER  Anagrams: eer eer ere ere ree ree  
+Key: OSS  Anagrams: sos sos  
+Key: LOOPSS  Anagrams: sloops sloops spools spools  
+Key: BIT  Anagrams: bit bit tib tib  Key: AGL  Anagrams: gal gal lag lag  Key: NOOPSS  Anagrams: snoops snoops spoons spoons  
+Key: CIT  Anagrams: cit cit tic tic  
+Key: DIT  Anagrams: dit dit tid tid  Key: AAKKN  Anagrams: kanak kanak  Key: AORSS  Anagrams: saros saros soras soras  
+Key: EGL  Anagrams: gel gel leg leg  
+Key: GIT  Anagrams: git git tig tig  Key: EEKL  Anagrams: keel keel leek leek  
+Key: AE  Anagrams: ae ae ea ea  Key: EFT  Anagrams: fet fet tef tef  
+Key: EELSTU  Anagrams: elutes elutes setule setule  
+Key: AIKSS  Anagrams: sakis sakis sikas sikas  
+Key: EE  Anagrams: ee ee  Key: EEY  Anagrams: eye eye  
+Key: DEIMN  Anagrams: denim denim mined mined  
+Key: ASW  Anagrams: saw saw was was  Key: ASWY  Anagrams: sway sway yaws yaws  
+Key: ADRST  Anagrams: darts darts strad strad  
+Key: ANS  Anagrams: nas nas san san  
+Key: ABNS  Anagrams: bans bans snab snab  Key: OSW  Anagrams: sow sow wos wos  
+Key: ACNRS  Anagrams: narcs narcs scran scran  Key: INS  Anagrams: nis nis sin sin  
+Key: AMSW  Anagrams: maws maws swam swam  
+Key: DOPRS  Anagrams: dorps dorps sprod sprod  
+Key: GOPRS  Anagrams: gorps gorps sprog sprog  Key: EMSW  Anagrams: smew smew wems wems  
+Key: DEOR  Anagrams: oder oder redo redo  Key: PPTUU  Anagrams: putup putup  
+Key: OOPRS  Anagrams: roops roops spoor spoor  
+Key: EENNRT  Anagrams: rennet rennet tenner tenner  
+Key: BGI  Anagrams: big big gib gib  
+Key: GLPU  Anagrams: gulp gulp plug plug  
+Key: DGI  Anagrams: dig dig gid gid  
+Key: FGI  Anagrams: fig fig gif gif  Key: GMU  Anagrams: gum gum mug mug  Key: APW  Anagrams: paw paw wap wap  
+Key: GGI  Anagrams: gig gig  
+Key: ELOORT  Anagrams: looter looter retool retool  
+Key: MMU  Anagrams: mum mum  
+Key: ENORS  Anagrams: rones rones senor senor  
+Key: OPW  Anagrams: pow pow wop wop  
+Key: APRSST  Anagrams: sparts sparts straps straps  
+Key: AIKNS  Anagrams: kisan kisan nasik nasik  
+Key: IIMSS  Anagrams: simis simis  
+Key: DEILS  Anagrams: delis delis siled siled  
+Key: FGLO  Anagrams: flog flog golf golf  Key: IPRSST  Anagrams: spirts spirts sprits sprits stirps stirps strips strips  
+Key: AERST  Anagrams: resat resat taser taser  
+Key: OPRSST  Anagrams: sports sports strops strops  
+Key: ADILN  Anagrams: ladin ladin nidal nidal  
+Key: ARS  Anagrams: ras ras sar sar  
+Key: ENW  Anagrams: new new wen wen  
+Key: DEEPS  Anagrams: deeps deeps speed speed  
+Key: ANN  Anagrams: nan nan  
+Key: AANN  Anagrams: anan anan anna anna naan naan nana nana  
+Key: AAANN  Anagrams: anana anana  Key: AABRS  Anagrams: arbas arbas sabra sabra  
+Key: BOSW  Anagrams: bows bows swob swob  Key: AAKKY  Anagrams: kayak kayak  Key: AAKKZ  Anagrams: kazak kazak  
+Key: DNOS  Anagrams: dons dons snod snod  
+Key: ENOS  Anagrams: enos enos sone sone  
+Key: NOSW  Anagrams: snow snow wons wons  
+Key: DEEILRV  Anagrams: deliver deliver reviled reviled  
+Key: ASSTW  Anagrams: staws staws swats swats  
+Key: OSSTW  Anagrams: stows stows swots swots  
+Key: ARW  Anagrams: raw raw war war  
+Key: AKM  Anagrams: kam kam mak mak  
+Key: BORS  Anagrams: bros bros sorb sorb  
+Key: EORS  Anagrams: eros eros sore sore  
+Key: ANNO  Anagrams: anon anon nona nona  
+Key: AESSS  Anagrams: asses asses sessa sessa  
+Key: ELUX  Anagrams: exul exul luxe luxe  
+Key: BBLU  Anagrams: blub blub bulb bulb  
+Key: AW  Anagrams: aw aw wa wa  Key: AWY  Anagrams: way way yaw yaw  
+Key: AAW  Anagrams: awa awa  Key: ILMS  Anagrams: mils mils slim slim  
+Key: EWY  Anagrams: wey wey yew yew  
+Key: AIMRS  Anagrams: ramis ramis simar simar  
+Key: ALP  Anagrams: lap lap pal pal  Key: OW  Anagrams: ow ow wo wo  
+Key: ACNR  Anagrams: cran cran narc narc  
+Key: IIRRTT  Anagrams: tirrit tirrit  
+Key: AERRT  Anagrams: arret arret terra terra  
+Key: AMM  Anagrams: mam mam  
+Key: BIS  Anagrams: bis bis sib sib  Key: AAMM  Anagrams: maam maam  
+Key: DIS  Anagrams: dis dis sid sid  
+Key: DEES  Anagrams: dees dees seed seed  
+Key: IMM  Anagrams: mim mim  
+Key: DORW  Anagrams: drow drow word word  
+Key: ADDR  Anagrams: dard dard drad drad  
+Key: GUV  Anagrams: guv guv vug vug  
+Key: ADIV  Anagrams: avid avid diva diva  
+Key: EENSS  Anagrams: esnes esnes sense sense  
+Key: AGNSW  Anagrams: gnaws gnaws swang swang  
+Key: MMOOTT  Anagrams: motmot motmot tomtom tomtom  
+Key: DEEP  Anagrams: deep deep peed peed  
+Key: GIP  Anagrams: gip gip pig pig  Key: ARSTW  Anagrams: straw straw warts warts  
+Key: AAHMS  Anagrams: amahs amahs shama shama  
+Key: ORSTW  Anagrams: strow strow worts worts  
+Key: ADD  Anagrams: dad dad  Key: HHU  Anagrams: huh huh  Key: NOW  Anagrams: now now won won  
+Key: BIN  Anagrams: bin bin nib nib  Key: DEORRT  Anagrams: dorter dorter retrod retrod  
+Key: DIN  Anagrams: din din nid nid  
+Key: AEEGNSS  Anagrams: sagenes sagenes senegas senegas  
+Key: ALRY  Anagrams: aryl aryl lyra lyra  
+Key: EFN  Anagrams: fen fen nef nef  
+Key: DEERSST  Anagrams: dessert dessert tressed tressed  
+Key: ASTW  Anagrams: staw staw swat swat taws taws wats wats  
+Key: DEENNST  Anagrams: dennets dennets stenned stenned  Key: EINNST  Anagrams: sinnet sinnet tennis tennis  
+Key: ESTW  Anagrams: stew stew wets wets  
+Key: KKOO  Anagrams: kook kook  
+Key: EERSS  Anagrams: seres seres  
+Key: ELNO  Anagrams: leon leon noel noel  
+Key: OSTW  Anagrams: stow stow swot swot tows tows wots wots  
+Key: BTU  Anagrams: but but tub tub  Key: ILNO  Anagrams: lion lion noil noil  
+Key: GTU  Anagrams: gut gut tug tug  
+Key: ABTU  Anagrams: abut abut tuba tuba  
+Key: AELT  Anagrams: leat leat tael tael  
+Key: EELT  Anagrams: leet leet teel teel  
+Key: DINOR  Anagrams: nidor nidor rodin rodin  Key: NTU  Anagrams: nut nut tun tun  
+Key: PTU  Anagrams: put put tup tup  
+Key: IKNT  Anagrams: knit knit tink tink  
+Key: AAL  Anagrams: ala ala  
+Key: BDE  Anagrams: bed bed deb deb  Key: TTU  Anagrams: tut tut  
+Key: ELZ  Anagrams: lez lez zel zel  
+Key: AEGLR  Anagrams: lager lager regal regal  Key: AEPRS  Anagrams: reaps reaps spaer spaer  Key: BEIRT  Anagrams: rebit rebit tiber tiber  
+Key: ABCDER  Anagrams: braced braced decarb decarb  Key: EESS  Anagrams: esse esse sees sees  Key: EESSY  Anagrams: sesey sesey yeses yeses  Key: EESSX  Anagrams: sexes sexes  
+Key: AIR  Anagrams: air air ria ria  Key: ADSW  Anagrams: daws daws swad swad  
+Key: ACERSS  Anagrams: scares scares seracs seracs  
+Key: DEER  Anagrams: deer deer reed reed  
+Key: AFR  Anagrams: far far raf raf  
+Key: EENRS  Anagrams: reens reens sneer sneer  
+Key: AHIRRS  Anagrams: harris harris sirrah sirrah  
+Key: ACDE  Anagrams: dace dace ecad ecad  
+Key: DEIT  Anagrams: edit edit tide tide  
+Key: ACEPRS  Anagrams: recaps recaps spacer spacer  
+Key: AAI  Anagrams: aia aia  
+Key: DI  Anagrams: di di id id  
+Key: BBI  Anagrams: bib bib  
+Key: BBEE  Anagrams: beeb beeb  
+Key: EEGIR  Anagrams: eiger eiger regie regie  
+Key: ANPSS  Anagrams: snaps snaps spans spans  
+Key: AALLMM  Anagrams: mallam mallam  
+Key: AAAALLMMY  Anagrams: malayalam malayalam  
+Key: INPSS  Anagrams: snips snips spins spins  
+Key: AENS  Anagrams: anes anes sena sena  
+Key: BENS  Anagrams: bens bens sneb sneb  
+Key: DENS  Anagrams: dens dens sned sned  
+Key: EEIRRVV  Anagrams: reviver reviver  
+Key: ILPPSU  Anagrams: pupils pupils slipup slipup  
+Key: CCEE  Anagrams: ecce ecce  
+Key: AMRT  Anagrams: mart mart tram tram  
+Key: DLOOR  Anagrams: drool drool loord loord  
+Key: ILST  Anagrams: slit slit tils tils  
+Key: DEEILS  Anagrams: elides elides sedile sedile  
+Key: AIRST  Anagrams: airts airts stria stria  
+Key: DIRST  Anagrams: dirts dirts strid strid  Key: CEERST  Anagrams: secret secret terces terces  
+Key: GIRST  Anagrams: girts girts strig strig  
+Key: ADEILN  Anagrams: delian delian nailed nailed  
+Key: AERS  Anagrams: ares ares sera sera  
+Key: EFLORW  Anagrams: reflow reflow wolfer wolfer  
+Key: EERS  Anagrams: rees rees seer seer  
+Key: ADRW  Anagrams: draw draw ward ward  
+Key: EEKK  Anagrams: keek keek  Key: AMT  Anagrams: mat mat tam tam  
+Key: BLOO  Anagrams: lobo lobo obol obol  
+Key: FLOO  Anagrams: fool fool loof loof  
+Key: AHHS  Anagrams: hahs hahs shah shah  
+Key: ADORS  Anagrams: doras doras sarod sarod  
+Key: AKSU  Anagrams: auks auks skua skua  
+Key: BHO  Anagrams: boh boh hob hob  Key: AGLS  Anagrams: gals gals slag slag  Key: AGMR  Anagrams: gram gram marg marg  
+Key: DHO  Anagrams: doh doh hod hod  
+Key: ADLU  Anagrams: dual dual laud laud  Key: EEKLS  Anagrams: keels keels sleek sleek  
+Key: HHO  Anagrams: hoh hoh  
+Key: ADW  Anagrams: daw daw wad wad  
+Key: ACERS  Anagrams: cares cares serac serac  
+Key: EGMNO  Anagrams: emong emong gnome gnome  
+Key: EELLSS  Anagrams: selles selles  
+Key: AGM  Anagrams: gam gam mag mag  
+Key: EENR  Anagrams: neer neer reen reen  
+Key: EGM  Anagrams: gem gem meg meg  Key: AADRR  Anagrams: radar radar  
+Key: AADMM  Anagrams: madam madam  
+Key: GMSU  Anagrams: gums gums smug smug  Key: APSW  Anagrams: paws paws swap swap  
+Key: BKNU  Anagrams: bunk bunk knub knub  
+Key: IKKRS  Anagrams: kirks kirks skrik skrik  
+Key: TUU  Anagrams: utu utu  
+Key: DEW  Anagrams: dew dew wed wed  
+Key: EEW  Anagrams: ewe ewe  Key: ENORSS  Anagrams: serons serons snores snores  
+Key: OPSW  Anagrams: pows pows swop swop  
+Key: EELP  Anagrams: leep leep peel peel  
+Key: IVV  Anagrams: viv viv  
+Key: OSTT  Anagrams: stot stot tots tots  
+Key: CCEORS  Anagrams: reccos reccos soccer soccer  
+Key: BGO  Anagrams: bog bog gob gob  Key: ACMSU  Anagrams: camus camus sumac sumac  
+Key: DGO  Anagrams: dog dog god god  
+Key: GGO  Anagrams: gog gog  
+Key: EILV  Anagrams: evil evil live live  
+Key: LOOT  Anagrams: loot loot tool tool  
+Key: MOOT  Anagrams: moot moot toom toom  
+Key: AGST  Anagrams: gats gats stag stag  
+Key: ALRSU  Anagrams: larus larus sural sural  
+Key: ADL  Anagrams: dal dal lad lad  Key: AHH  Anagrams: hah hah  
+Key: AELSST  Anagrams: salets salets stelas stelas  
+Key: EETTV  Anagrams: tevet tevet  
+Key: EELSST  Anagrams: sleets sleets steels steels  Key: MSSTU  Anagrams: smuts smuts stums stums  
+Key: DEIN  Anagrams: dine dine enid enid  
+Key: AELR  Anagrams: laer laer real real  
+Key: BDIR  Anagrams: bird bird drib drib  
+Key: EELR  Anagrams: leer leer reel reel  
+Key: AADFR  Anagrams: daraf daraf farad farad  
+Key: GGOO  Anagrams: goog goog  
+Key: IIRSS  Anagrams: siris siris  
+Key: EEMST  Anagrams: meets meets steem steem  
+Key: AGNT  Anagrams: gnat gnat tang tang  
+Key: ALPS  Anagrams: pals pals slap slap  
+Key: AMS  Anagrams: mas mas sam sam  
+Key: AAMS  Anagrams: maas maas saam saam  
+Key: GU  Anagrams: gu gu ug ug  Key: GUY  Anagrams: guy guy yug yug  
+Key: ILPS  Anagrams: pils pils slip slip  
+Key: AEL  Anagrams: ale ale ela ela  Key: BBU  Anagrams: bub bub  
+Key: BDI  Anagrams: bid bid dib dib  
+Key: ACEIN  Anagrams: caine caine eniac eniac  Key: IMS  Anagrams: mis mis sim sim  
+Key: DEL  Anagrams: del del led led  Key: DDI  Anagrams: did did  
+Key: DDEE  Anagrams: deed deed  Key: EEL  Anagrams: eel eel lee lee  Key: EKN  Anagrams: ken ken nek nek  Key: MU  Anagrams: mu mu um um  
+Key: NU  Anagrams: nu nu un un  
+Key: AHJ  Anagrams: haj haj jah jah  Key: AEEPPRR  Anagrams: repaper repaper  
+Key: ABEL  Anagrams: able able elba elba  Key: PUY  Anagrams: puy puy yup yup  
+Key: ORTT  Anagrams: tort tort trot trot  
+Key: DEEGLR  Anagrams: gelder gelder redleg redleg  
+Key: CCIIV  Anagrams: civic civic  
+Key: KNSTU  Anagrams: knuts knuts stunk stunk  
+Key: CEIR  Anagrams: cire cire eric eric  
+Key: DORSW  Anagrams: drows drows sword sword  
+Key: EEIR  Anagrams: eire eire erie erie  
+Key: OOWWWW  Anagrams: wowwow wowwow  
+Key: EEFR  Anagrams: feer feer reef reef  
+Key: DEEFIIR  Anagrams: deifier deifier reified reified  Key: ALPP  Anagrams: palp palp plap plap  
+Key: AMP  Anagrams: map map pam pam  
+Key: ATT  Anagrams: tat tat  
+Key: ETT  Anagrams: tet tet  Key: AWW  Anagrams: waw waw  
+Key: ACMS  Anagrams: macs macs scam scam  
+Key: ACRTT  Anagrams: tcart tcart tract tract  Key: ITT  Anagrams: tit tit  
+Key: OTT  Anagrams: tot tot  
+Key: AJT  Anagrams: jat jat taj taj  
+Key: OWW  Anagrams: wow wow  
+Key: AMN  Anagrams: man man nam nam  
+Key: AAKR  Anagrams: arak arak kara kara  
+Key: DEF  Anagrams: def def fed fed  
+Key: ABKR  Anagrams: bark bark krab krab  
+Key: AMOS  Anagrams: amos amos soma soma  Key: EILOT  Anagrams: eliot eliot toile toile  
+Key: BINS  Anagrams: bins bins snib snib  Key: BKNO  Anagrams: bonk bonk knob knob  
+Key: GINS  Anagrams: gins gins snig snig  
+Key: DEERSSST  Anagrams: desserts desserts stressed stressed  
+Key: AGT  Anagrams: gat gat tag tag  
+Key: EGT  Anagrams: get get teg teg  
+Key: AKY  Anagrams: kay kay yak yak  Key: AAMMRR  Anagrams: marram marram  
+Key: EELNV  Anagrams: leven leven nevel nevel  
+Key: BSTU  Anagrams: buts buts stub stub  
+Key: EELST  Anagrams: leets leets sleet sleet steel steel teels teels  Key: MSTU  Anagrams: smut smut tums tums  
+Key: NSTU  Anagrams: nuts nuts stun stun  
+Key: IKNST  Anagrams: knits knits stink stink  
+Key: ALS  Anagrams: las las sal sal  Key: AMR  Anagrams: mar mar ram ram  
+Key: OOTT  Anagrams: otto otto toot toot  
+Key: ELS  Anagrams: les les sel sel  
+Key: IMR  Anagrams: mir mir rim rim  
+Key: AIRS  Anagrams: rias rias sair sair  
+Key: DEERS  Anagrams: redes redes seder seder  
+Key: IIRS  Anagrams: iris iris siri siri  
+Key: AGG  Anagrams: gag gag  
+Key: AAIKK  Anagrams: kaiak kaiak  
+Key: EEMT  Anagrams: meet meet teem teem  
+Key: LMOOS  Anagrams: mools mools sloom sloom  
+Key: AM  Anagrams: am am ma ma  Key: AMY  Anagrams: may may yam yam  
+Key: EELRV  Anagrams: lever lever revel revel  
+Key: EM  Anagrams: em em me me  
+Key: ABM  Anagrams: bam bam mab mab  
+Key: ACMR  Anagrams: cram cram marc marc  Key: IM  Anagrams: im im mi mi  
+Key: EESTV  Anagrams: evets evets steve steve  
+Key: AALLU  Anagrams: alula alula  
+Key: LSSUU  Anagrams: sulus sulus  
+Key: AALN  Anagrams: alan alan anal anal lana lana nala nala  
+Key: SSSUU  Anagrams: susus susus  
+Key: AABLN  Anagrams: alban alban nabla nabla  Key: ILN  Anagrams: lin lin nil nil  
+Key: AAINR  Anagrams: arian arian naira naira  
+Key: ACM  Anagrams: cam cam mac mac  
+Key: ADEIPR  Anagrams: diaper diaper repaid repaid  
+Key: AHSY  Anagrams: shay shay yahs yahs  
+Key: EHS  Anagrams: ehs ehs she she  
+Key: OOPST  Anagrams: poots poots stoop stoop  
+Key: BO  Anagrams: bo bo ob ob  Key: BOY  Anagrams: boy boy yob yob  
+Key: DO  Anagrams: do do od od  
+Key: EO  Anagrams: eo eo oe oe  Key: EERRSS  Anagrams: serres serres  Key: CCSSUU  Anagrams: succus succus  
+Key: ABO  Anagrams: abo abo oba oba  Key: HO  Anagrams: ho ho oh oh  
+Key: BBO  Anagrams: bob bob  Key: IO  Anagrams: io io oi oi  
+Key: KO  Anagrams: ko ko ok ok  
+Key: MO  Anagrams: mo mo om om  
+Key: NO  Anagrams: no no on on  Key: NOY  Anagrams: noy noy yon yon  
+Key: OO  Anagrams: oo oo  Key: AMRST  Anagrams: smart smart trams trams  Key: RSSTTU  Anagrams: struts struts sturts sturts  
+Key: EELLV  Anagrams: level level  
+Key: DMO  Anagrams: dom dom mod mod  
+Key: HMO  Anagrams: mho mho ohm ohm  
+Key: DEOSTV  Anagrams: devots devots stoved stoved  
+Key: AHP  Anagrams: hap hap pah pah  Key: MMO  Anagrams: mom mom  
+Key: APRT  Anagrams: part part prat prat tarp tarp trap trap  
+Key: AST  Anagrams: sat sat tas tas  
+Key: MNOTU  Anagrams: muton muton notum notum  
+Key: EST  Anagrams: set set tes tes  
+Key: FLOW  Anagrams: flow flow wolf wolf  
+Key: ABST  Anagrams: bats bats stab stab  
+Key: ADRSW  Anagrams: draws draws sward sward  Key: IST  Anagrams: sit sit tis tis  
+Key: SST  Anagrams: sts sts  
+Key: EFIS  Anagrams: fies fies seif seif  
+Key: ABBCO  Anagrams: bobac bobac cabob cabob  Key: AHHSS  Anagrams: shahs shahs  
+Key: BGRU  Anagrams: burg burg grub grub  
+Key: DEILV  Anagrams: devil devil lived lived  Key: DHOS  Anagrams: dohs dohs shod shod  
+Key: APT  Anagrams: pat pat tap tap  
+Key: AAILMN  Anagrams: animal animal lamina lamina  
+Key: IPT  Anagrams: pit pit tip tip  
+Key: HOO  Anagrams: hoo hoo oho oho ooh ooh  
+Key: BBOO  Anagrams: boob boob  
+Key: OPT  Anagrams: pot pot top top  
+Key: AAOORRTTV  Anagrams: rotavator rotavator  
+Key: MOO  Anagrams: moo moo oom oom  
+Key: BDETU  Anagrams: debut debut tubed tubed  
+Key: AGS  Anagrams: gas gas sag sag  Key: IKPSS  Anagrams: skips skips spiks spiks  
+Key: AAGS  Anagrams: agas agas saga saga  
+Key: EILNSV  Anagrams: levins levins snivel snivel  
+Key: DMOO  Anagrams: doom doom mood mood  
+Key: ANOV  Anagrams: avon avon nova nova  Key: BDU  Anagrams: bud bud dub dub  Key: EENTT  Anagrams: tenet tenet  
+Key: DDU  Anagrams: dud dud  
+Key: ANT  Anagrams: nat nat tan tan  
+Key: LMOO  Anagrams: loom loom mool mool  
+Key: ENT  Anagrams: net net ten ten  
+Key: INT  Anagrams: nit nit tin tin  
+Key: BOST  Anagrams: bots bots stob stob  Key: EOPRT  Anagrams: repot repot toper toper  
+Key: AELSS  Anagrams: seals seals slaes slaes  
+Key: AILR  Anagrams: aril aril lair lair liar liar lira lira rail rail rial rial  
+Key: ADEIR  Anagrams: aider aider redia redia  
+Key: AAV  Anagrams: ava ava  
+Key: EHR  Anagrams: her her reh reh  
+Key: EILR  Anagrams: leir leir riel riel  Key: OOPRT  Anagrams: poort poort troop troop  
+Key: NOST  Anagrams: snot snot tons tons  
+Key: EEKP  Anagrams: keep keep peek peek  
+Key: DEINNS  Anagrams: dennis dennis sinned sinned  
+Key: EIMST  Anagrams: emits emits stime stime  
+Key: ACDEL  Anagrams: decal decal laced laced  Key: AELPS  Anagrams: elaps elaps spale spale  Key: AKNPS  Anagrams: knaps knaps spank spank  
+Key: ESSTT  Anagrams: stets stets  
+Key: EELPS  Anagrams: leeps leeps peels peels sleep sleep speel speel  
+Key: AH  Anagrams: ah ah ha ha  Key: EEMS  Anagrams: emes emes seme seme  Key: AHY  Anagrams: hay hay yah yah  
+Key: AAH  Anagrams: aha aha  Key: AGN  Anagrams: gan gan nag nag  
+Key: EH  Anagrams: eh eh he he  
+Key: DDEI  Anagrams: deid deid died died  Key: OSSTT  Anagrams: stots stots  
+Key: ART  Anagrams: rat rat tar tar  
+Key: GIL  Anagrams: gil gil lig lig  
+Key: DEIPRS  Anagrams: redips redips spider spider  
+Key: DDEEFII  Anagrams: deified deified  
+Key: BNSU  Anagrams: buns buns snub snub  
+Key: ORT  Anagrams: rot rot tor tor  
+Key: GNSU  Anagrams: gnus gnus guns guns snug snug sung sung  Key: AJR  Anagrams: jar jar raj raj  
+Key: AAJR  Anagrams: ajar ajar raja raja  
+Key: ENOT  Anagrams: eton eton note note  
+Key: KNOT  Anagrams: knot knot tonk tonk  
+Key: AETT  Anagrams: etat etat tate tate  Key: EILSV  Anagrams: evils evils slive slive  Key: AAHHNN  Anagrams: hannah hannah  
+Key: LOOST  Anagrams: loots loots sloot sloot stool stool tools tools  
+Key: MOOST  Anagrams: smoot smoot tooms tooms  
+Key: AT  Anagrams: at at ta ta  Key: NOOST  Anagrams: snoot snoot toons toons  
+Key: ABT  Anagrams: bat bat tab tab  
+Key: IT  Anagrams: it it ti ti  
+Key: AGR  Anagrams: gar gar rag rag  
+Key: AAGR  Anagrams: agar agar raga raga  
+Key: ABGR  Anagrams: brag brag garb garb  
+Key: CRSU  Anagrams: rucs rucs scur scur  
+Key: AAHLLN  Anagrams: hallan hallan nallah nallah  
+Key: ADMNO  Anagrams: damon damon nomad nomad  Key: AKNRS  Anagrams: krans krans snark snark  Key: AELRS  Anagrams: lares lares seral seral  
+Key: EELRS  Anagrams: reels reels sleer sleer  Key: MRSU  Anagrams: rums rums smur smur  
+Key: DDEENN  Anagrams: denned denned  
+Key: EKPS  Anagrams: keps keps spek spek  Key: EMRSU  Anagrams: mures mures serum serum  
+Key: IKPS  Anagrams: kips kips spik spik  
+Key: AAG  Anagrams: aga aga  
+Key: DEIRRS  Anagrams: derris derris sirred sirred  
+Key: EEK  Anagrams: eke eke  
+Key: ABG  Anagrams: bag bag gab gab  Key: ADM  Anagrams: dam dam mad mad  
+Key: EFFOR  Anagrams: offer offer reffo reffo  
+Key: AGNST  Anagrams: gnats gnats stang stang  
+Key: AAKLOT  Anagrams: atokal atokal lakota lakota  
+Key: BSU  Anagrams: bus bus sub sub  
+Key: EIMRT  Anagrams: remit remit timer timer  
+Key: AAMSS  Anagrams: assam assam massa massa  
+Key: ESUZ  Anagrams: suez suez zeus zeus  
+Key: AOT  Anagrams: oat oat tao tao  
+Key: DOT  Anagrams: dot dot tod tod  Key: EELPR  Anagrams: leper leper repel repel  
+Key: DELS  Anagrams: dels dels sled sled  
+Key: EELS  Anagrams: eels eels lees lees seel seel slee slee  Key: GOT  Anagrams: got got tog tog  
+Key: PSU  Anagrams: pus pus sup sup  
+Key: MOT  Anagrams: mot mot tom tom  Key: SSU  Anagrams: sus sus  
+Key: NOT  Anagrams: not not ton ton  
+Key: APS  Anagrams: pas pas sap sap  Key: EKOSS  Anagrams: sekos sekos sokes sokes  Key: APSY  Anagrams: spay spay yaps yaps  
+Key: CEIRS  Anagrams: cires cires seric seric  
+Key: EGOR  Anagrams: ergo ergo ogre ogre  
+Key: IPS  Anagrams: pis pis sip sip  
+Key: OPS  Anagrams: pos pos sop sop  
+Key: AMPS  Anagrams: maps maps spam spam  
+Key: DPU  Anagrams: dup dup pud pud  
+Key: EIMT  Anagrams: emit emit time time  
+Key: GPU  Anagrams: gup gup pug pug  
+Key: DEINOS  Anagrams: edison edison noside noside  
+Key: ADHS  Anagrams: dahs dahs shad shad  
+Key: AEMX  Anagrams: amex amex xema xema  
+Key: EEM  Anagrams: eme eme  Key: PPU  Anagrams: pup pup  
+Key: EEGSU  Anagrams: euges euges segue segue  
+Key: ADO  Anagrams: ado ado oda oda  
+Key: BDO  Anagrams: bod bod dob dob  
+Key: CDO  Anagrams: cod cod doc doc  
+Key: DDO  Anagrams: dod dod  
+Key: APP  Anagrams: pap pap  
+Key: EPP  Anagrams: pep pep  
+Key: IPP  Anagrams: pip pip  
+Key: BNU  Anagrams: bun bun nub nub  
+Key: DDEEW  Anagrams: dewed dewed  Key: OPP  Anagrams: pop pop  
+Key: NNU  Anagrams: nun nun  Key: AMOSS  Anagrams: samos samos somas somas  
+Key: ANP  Anagrams: nap nap pan pan  
+Key: ENP  Anagrams: nep nep pen pen  
+Key: DEOPST  Anagrams: depots depots stoped stoped  
+Key: TTTTUU  Anagrams: tuttut tuttut  
+Key: INP  Anagrams: nip nip pin pin  
+Key: DDEERR  Anagrams: redder redder  
+Key: HOPS  Anagrams: pohs pohs shop shop  
+Key: EEEMMSS  Anagrams: sememes sememes  
+Key: GOPU  Anagrams: ogpu ogpu upgo upgo  
+Key: BERTU  Anagrams: rebut rebut tuber tuber  
+Key: DEMO  Anagrams: edom edom mode mode  
+Key: BRU  Anagrams: bur bur rub rub  Key: AENV  Anagrams: evan evan nave nave  
+Key: CRU  Anagrams: cur cur ruc ruc  Key: EILRT  Anagrams: relit relit tiler tiler  
+Key: EENV  Anagrams: even even neve neve  
+Key: GRU  Anagrams: gur gur rug rug  
+Key: AKNR  Anagrams: knar knar rank rank  Key: APSST  Anagrams: spats spats staps staps  
+Key: IMRS  Anagrams: rims rims smir smir  
+Key: NRU  Anagrams: nur nur run run  
+Key: AEST  Anagrams: etas etas sate sate  
+Key: OOPP  Anagrams: oppo oppo poop poop  Key: OPSST  Anagrams: spots spots stops stops  
+Key: ADDU  Anagrams: daud daud duad duad  Key: APR  Anagrams: par par rap rap  
+Key: ABEST  Anagrams: sebat sebat tabes tabes  Key: LOOSS  Anagrams: solos solos  
+Key: AS  Anagrams: as as sa sa  
+Key: AAS  Anagrams: asa asa  Key: EPR  Anagrams: per per rep rep  
+Key: ESY  Anagrams: sey sey yes yes  
+Key: ADDEL  Anagrams: dedal dedal laded laded  
+Key: AABS  Anagrams: abas abas saba saba  Key: IS  Anagrams: is is si si  
+Key: EEFRR  Anagrams: refer refer  
+Key: OS  Anagrams: os os so so  Key: OSY  Anagrams: soy soy yos yos  
+Key: ADILR  Anagrams: drail drail liard liard  
+Key: ACMRS  Anagrams: marcs marcs scram scram  
+Key: ALMRU  Anagrams: larum larum mural mural  
+Key: LOOPS  Anagrams: loops loops pools pools sloop sloop spool spool  
+Key: MOOPS  Anagrams: moops moops spoom spoom  
+Key: NOOPS  Anagrams: noops noops poons poons snoop snoop spoon spoon  Key: APY  Anagrams: pay pay yap yap  
+Key: OP  Anagrams: op op po po  
+Key: AENT  Anagrams: ante ante etna etna neat neat taen taen  Key: ADH  Anagrams: dah dah had had  
+Key: ADIL  Anagrams: dial dial laid laid  
+Key: EENT  Anagrams: eten eten nete nete  
+Key: ADRT  Anagrams: dart dart trad trad  
+Key: LNOOS  Anagrams: loons loons snool snool  
+Key: AN  Anagrams: an an na na  
+Key: AAN  Anagrams: ana ana  
+Key: EN  Anagrams: en en ne ne  
+Key: ABN  Anagrams: ban ban nab nab  
+Key: AEV  Anagrams: ave ave eva eva  
+Key: DOPR  Anagrams: dorp dorp prod prod  
+Key: BOS  Anagrams: bos bos sob sob  
+Key: COS  Anagrams: cos cos soc soc  Key: EELLM  Anagrams: lemel lemel  
+Key: DOS  Anagrams: dos dos sod sod  Key: EEV  Anagrams: eve eve  Key: GOPR  Anagrams: gorp gorp prog prog  Key: EMW  Anagrams: mew mew wem wem  
+Key: HOS  Anagrams: hos hos soh soh  
+Key: LOS  Anagrams: los los sol sol  Key: OOPR  Anagrams: poor poor roop roop  
+Key: NOS  Anagrams: nos nos son son  
+Key: DEIMST  Anagrams: demits demits stimed stimed  
+
